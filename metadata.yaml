@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7413
     wikipedia: http://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39044#Advice-to-the-people-in-general-with-regard-to-their-health
 gutenberg_issued: '2012-03-09'
 gutenberg_type: Text
 identifiers:
