@@ -1,0 +1,43 @@
+_repo: Advice-to-the-people-in-general-with-regard-to-their-health_39044
+_version: 0.1.0
+alternative_title: Avis au peuple sur sa santé. English
+contributor:
+  translator:
+    agent_name: Kirkpatrick, J. (James), approximately 1696-1770
+    aliases:
+    - Kirkpatrick, James
+    - Killpatrick, James
+    gutenberg_agent_id: '39833'
+    url: http://www.gutenberg.org/2009/agents/39833
+covers:
+- cover_type: archival
+  image_path: 39044-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tissot, S. A. D. (Samuel Auguste David)
+    aliases:
+    - Tissot, Auguste
+    - Tissot, Samuel Auguste Andre David
+    - Tissot, Samuel Auguste André David
+    - Tissot, Simon André
+    birthdate: 1728
+    deathdate: 1797
+    gutenberg_agent_id: '7413'
+    url: http://www.gutenberg.org/2009/agents/7413
+    wikipedia: http://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
+description: ''
+gutenberg_issued: '2012-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39044'
+  lccn: '35031589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene -- Handbooks, manuals, etc. -- Early works to 1800'
+- !lcsh 'Medicine, Popular -- Early works to 1800'
+- !lcc 'RC'
+title: Advice to the people in general, with regard to their health
+url: http://www.gutenberg.org/ebooks/39044
